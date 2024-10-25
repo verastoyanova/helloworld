@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MM-758</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.csc.dip.mm.core.ProductModuleBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.csc.dip.mm.core.ProductModuleNature</nature>
+		<nature>com.csc.dip.mm.core.CommonModuleNature</nature>
+		<nature>com.csc.dip.mm.core.ModelManagerNature</nature>
+	</natures>
+</projectDescription>
